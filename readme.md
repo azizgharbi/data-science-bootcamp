@@ -41,4 +41,4 @@
 ## Tips:
 
 - Editor: jupyter nootebook
-- quit python: [quit()]
+- quit python: `quit()`
